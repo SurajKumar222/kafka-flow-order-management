@@ -56,7 +56,10 @@ It demonstrates how to coordinate multiple microservices (Order, Payment, Stock)
 
 ## 📂 Project Structure
 
-
+kafka-flow-order-management/
+├── order-service-new/
+├── payment-service/
+└── stock-service/
 ---
 
 ## ✨ Key Features
